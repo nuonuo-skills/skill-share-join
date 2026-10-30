@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "hubRepo": "nuonuo-skills/skill-share-hub",
+  "hubRepositoryId": 1438122910,
+  "gatewayRepo": "nuonuo-skills/skill-share-join",
+  "gatewayRepositoryId": 1439460643,
+  "keyId": "1c3840993258017fbe7decba",
+  "publicKey": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VuAyEA69XqVrx1A8Ar2zOHO0Uydi1JpjbtL5yypXwBJu0W+lI=\n-----END PUBLIC KEY-----\n",
+  "deniedUserIds": []
+}
